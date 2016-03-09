@@ -1,5 +1,14 @@
 #前端开发面试题
 
+## 分支序 ##
+本文雖然前端工程師面試用到的簡單整理題目，瀏覽過後對資訊工程浩大的世界感到驚嘆，感謝原作者 markyun 的這篇文章對中文前端的學習地圖有著非常精闢的整理。為了更湊完美與未來需要，本人將補充一些專有名詞與自身經驗於上，希望與 Github 的大家一同成長！
+
+再一次感謝 markyun 大的原文也感謝分享！
+
+[原倉庫(Repo)請點這連結](https://github.com/markyun/My-blog/)
+
+--- Mark Tsai 於 2016/03/09
+
 ## <a name='preface'>前言</a> ##
 
 
@@ -34,11 +43,33 @@
 		HTML5、CSS3、Flexbox
 
 	JavaScript：
-        数据类型、运算、对象、Function、继承、闭包、作用域、原型链、事件、RegExp、JSON、Ajax、
-		DOM、BOM、内存泄漏、跨域、异步装载、模板引擎、前端MVC、路由、模块化、Canvas、ECMAScript 6、Nodejs
+		数据类型(Data Type)、
+		运算、
+		对象、
+		Function、
+		继承 (Inherit)、
+		闭包 (Closure)、
+		作用域 (Scope)、
+		原型链 (Prototype Chain)、
+		事件 (Event)、
+		正規表示式 (Regular Expression, RegExp)、
+		JSON (JavaScript Object Notation)、
+		Ajax (Asynchronous JavaScript and XML)、
+		文件物件模型 (Document Object Model, DOM)、
+		BOM、
+		内存泄漏、
+		跨域、
+		异步装载、
+		模板引擎 (Template Engine)、
+		前端MVC 、
+		路由 (Router)、
+		模块化、
+		Canvas、
+		ECMAScript 6、
+		Nodejs
 
 	其他：
-        移动端、响应式、自动化构建、HTTP、离线存储、WEB安全、优化、重构、团队协作、可维护、易用性、SEO、UED、架构、职业生涯、快速学习能力
+        移动端、响应式(Responsive Web Design)、自动化构建、HTTP、离线存储、WEB安全、优化、重构、团队协作、可维护、易用性、SEO、UED、架构、职业生涯、快速学习能力
 
 作为一名前端工程师，**无论工作年头长短都应该掌握的知识点**：
 
